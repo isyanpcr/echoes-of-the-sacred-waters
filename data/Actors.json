@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"battlerName":"nun","characterIndex":0,"characterName":"Nuns","classId":2,"equips":[4,0,0,0,0],"faceIndex":2,"faceName":"People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hildegard von Bingen","nickname":"","note":"<menu_picture:nun2>\n<NameBox: Sister Hildegard>","profile":"A learned abbot of Rupertsberg (born 1098), gifted in \nherbal medicine, music, and visions."},
+{"id":2,"battlerName":"Actor1_1","characterIndex":0,"characterName":"Actor1","classId":3,"equips":[1,0,0,0,4],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sir Roland","nickname":"","note":"<menu_picture:harold1>","profile":"Once a knight falsely accused and stripped of his title,\nhe now earns his keep as a mercenary."},
+{"id":3,"battlerName":"custom1-H","characterIndex":7,"characterName":"custom1","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"custon1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alaric","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":7,"characterName":"People4","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"People4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jutta von Sponheim","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor2_5","characterIndex":5,"characterName":"peopleA1","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"face_peopleA1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Markus Feldmann (Pedagang)","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":7,"characterName":"Evil","classId":1,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sir Karl","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"Mag_2","characterIndex":0,"characterName":"$Magica02","classId":1,"equips":[5,0,2,3,4],"faceIndex":1,"faceName":"Mag","traits":[],"initialLevel":1,"maxLevel":99,"name":"Homura","nickname":"Akemi","note":"Face Breath Effect","profile":"She seems to be a magical girl, but there are a lot \nof mysteries surrounding the way she acts."},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
