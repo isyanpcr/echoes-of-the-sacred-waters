@@ -165,7 +165,7 @@ Topics explored in the game include:
 ## Platform
 
 - **Windows PC**
-
+- **Android Mobile**
 ---
 
 ## Developer
